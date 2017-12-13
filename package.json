@@ -1,0 +1,15 @@
+{
+  "name": "kms-demo",
+  "version": "1.0.0",
+  "description": "A Demo of AWS KMS",
+  "main": "app.js",
+  "dependencies": {
+    "aws-sdk": "2.166.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dumindu Karunathilaka <dumindukarunathilaka@gmail.com>",
+  "license": "ISC"
+}
